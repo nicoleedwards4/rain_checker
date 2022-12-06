@@ -2,9 +2,9 @@ import requests
 import smtplib
 
 OWM_endpoint = "https://api.openweathermap.org/data/3.0/onecall"
-API_KEY = "31347904e5504fdc679e52d7d10fa5d8"
+API_KEY = ""
 my_gmail = "necodetesting@gmail.com"
-gmail_pw = "apfbufdletsvbwtc"
+gmail_pw = ""
 
 parameters = {
     "lat": 47.252940,
